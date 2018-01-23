@@ -1,0 +1,8 @@
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\nunit.framework.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\nunit.framework.xml
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
