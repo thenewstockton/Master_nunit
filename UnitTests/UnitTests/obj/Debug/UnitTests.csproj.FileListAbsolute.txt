@@ -10,3 +10,11 @@ D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\dotMemory.Un
 D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\dotMemory.Unit.xml
 D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.dll
 D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\ImpromptuInterface.xml
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\Castle.Core.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\Moq.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\System.ValueTuple.dll
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\Castle.Core.xml
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\Moq.pdb
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\Moq.xml
+D:\github\thenewstockton\Master_nunit\UnitTests\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
